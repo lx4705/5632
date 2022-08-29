@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='66.45.250.210';
-USER='aoyovpnx_mxprovpn';
-PASS='aoyovpnx_mxprovpn';
-DBNAME='aoyovpnx_mxprovpn';
+HOST='139.162.153.145';
+USER='mxprolx';
+PASS='mxprolx';
+DBNAME='mxprolx';
 
 install_require()
 {
