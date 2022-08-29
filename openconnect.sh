@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='66.45.250.210';
-db_user='aoyovpnx_mxprovpn';
-db_pass='aoyovpnx_mxprovpn';
-db_name='aoyovpnx_mxprovpn';
+db_host='139.162.153.145';
+db_user='mxprolx';
+db_pass='mxprolx';
+db_name='mxprolx';
 
 install_require()
 {
